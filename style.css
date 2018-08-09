@@ -4,3 +4,9 @@ body{
 h2{
  color: red
 }
+ p{
+ color: white;
+}
+.supers{
+  color: #bada55;
+  }
